@@ -506,6 +506,11 @@ div#bottom_footer{
     padding:10%;
 }
 
+ .Overlay-left, .Overlay-right{
+    width:  75%;
+    height: 38%;
+}
+
 }
 
 
